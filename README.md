@@ -1,4 +1,6 @@
-# CV Camille Bataille
+# CV Camille Bataille 
+
+
 
 Je m'appelle Camille et j'ai actuellement 28 ans.Polyvalente, rigoureuse et determiné, je suis à la recherche d'une opportunité afin de pouvoir me former au métier de technicienne système et réseaux dans le cadre d'une reconversion professionnelle
 Au plaisir de pouvoir échanger de mon projet avec vous.
@@ -27,3 +29,5 @@ _Vente de solution d'assurance et assistance aux sociétaires sur plusieurs nive
   * Jeux vidéos :video_game:
   * Enigmes et escape games :jigsaw:
   * Musique :headphones: [Ma playlist]( https://pages.github.com/](https://www.youtube.com/watch?v=rZjBLC8e2Es&t=838s )
+
+    ![file-min](https://github.com/user-attachments/assets/6ed14842-390d-4b8a-9e83-6d7d3305e0bf)
